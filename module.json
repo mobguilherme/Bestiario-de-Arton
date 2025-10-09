@@ -1,0 +1,36 @@
+{
+  "id": "bestiario-de-arton",
+  "title": "Bestiário de Arton (Criaturas)",
+  "description": "Contéudo das fichas de criaturas do Ameaças de Arton.",
+  "version": "0.5.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13" 
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {
+            "verified": "1.5.012" 
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "bestiario-de-arton",
+      "label": "Bestiário de Arton",
+      "type": "Actor",
+      "path": "./packs/bestiario-de-arton",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "GAMEMASTER": "OWNER"
+      }
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/mobguilherme/Bestiario-de-Arton/main/module.json",
+  "download": "https://github.com/mobguilherme/Bestiario-de-Arton/releases/download/v0.5.0/BestiariodeArton.zip"
+}
