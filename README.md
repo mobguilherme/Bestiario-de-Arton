@@ -32,7 +32,7 @@ Esse módulo não tem os itens e poderes dos livros citados e também não tem a
 
 ### Instalação Manual
 
-1. Visite a [última versão](https://github.com/mobguilherme/Bestiario-de-Arton/releases/download/v0.6.0/BestiariodeArton.zip).
+1. Visite a [última versão](https://github.com/mobguilherme/Bestiario-de-Arton/releases/download/v0.8.1/BestiariodeArton.zip).
 2. Faça o Download do arquivo "BestiariodeArton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
 4. Reinicie o Foundry se necessário.
