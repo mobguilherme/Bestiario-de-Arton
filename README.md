@@ -49,7 +49,4 @@ Esse módulo não tem os itens e poderes dos livros citados e também não tem a
 - AutoPeel
 - Grimgariano
 - Hayd
-<<<<<<< HEAD
 - Huitzx
-=======
->>>>>>> 28572ee4470b8d31f11c2389b266a5bb2472263d
