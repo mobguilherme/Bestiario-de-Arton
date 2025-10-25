@@ -1,8 +1,8 @@
 {
   "id": "bestiario-de-arton",
-  "title": "Bestiário de Arton (Criaturas)",
+  "title": "Bestiário de Arton",
   "description": "Contéudo das fichas de criaturas do Ameaças de Arton.",
-  "version": "0.6.0",
+  "version": "0.8.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13" 
@@ -13,7 +13,7 @@
         "id": "tormenta20",
         "type": "system",
         "compatibility": {
-            "verified": "1.5.012" 
+            "verified": "1.5.013" 
         }
       }
     ]
