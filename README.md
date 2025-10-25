@@ -33,7 +33,11 @@ Esse módulo não tem os itens e poderes dos livros citados e também não tem a
 ### Instalação Manual
 
 1. Visite a [última versão](https://github.com/mobguilherme/Bestiario-de-Arton/releases/download/v0.6.0/BestiariodeArton.zip).
+<<<<<<< HEAD
 2. Faça o Download do arquivo "BestiariodeArton.zip".
+=======
+2. Faça o Download do arquivo "Suplementos de Arton.zip".
+>>>>>>> 28572ee4470b8d31f11c2389b266a5bb2472263d
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
 4. Reinicie o Foundry se necessário.
 
@@ -49,4 +53,7 @@ Esse módulo não tem os itens e poderes dos livros citados e também não tem a
 - AutoPeel
 - Grimgariano
 - Hayd
+<<<<<<< HEAD
 - Huitzx
+=======
+>>>>>>> 28572ee4470b8d31f11c2389b266a5bb2472263d
