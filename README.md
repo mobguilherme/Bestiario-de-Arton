@@ -27,12 +27,12 @@ Esse módulo não tem os itens e poderes dos livros citados e também não tem a
 
 1. Abra a página inicial do Foundry e navegue até a aba de módulos. 
 2. Clique em "Intalar Novo Módulo".
-3. Use o seguinte link de manifesto `https://raw.githubusercontent.com/mobguilherme/Bestiario-de-Arton/main/module.json`
+3. Use o seguinte link de manifesto `https://github.com/mobguilherme/Bestiario-de-Arton/releases/latest/download/module.json`
 4. Clique "Instalar."
 
 ### Instalação Manual
 
-1. Visite a [última versão](https://github.com/mobguilherme/Bestiario-de-Arton/releases/download/v0.8.1/BestiariodeArton.zip).
+1. Visite a [última versão](https://github.com/mobguilherme/Bestiario-de-Arton/releases/download/v0.8.1/bestiario-de-arton.zip).
 2. Faça o Download do arquivo "BestiariodeArton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
 4. Reinicie o Foundry se necessário.
