@@ -2,7 +2,7 @@
   "id": "bestiario-de-arton",
   "title": "Bestiário de Arton",
   "description": "Contéudo das fichas de criaturas do Ameaças de Arton.",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "compatibility": {
     "minimum": "13",
     "verified": "13" 
@@ -42,6 +42,18 @@
         "PLAYER": "OBSERVER",
         "GAMEMASTER": "OWNER"
       }
+    },
+    {
+      "name": "ameacas-livro-basico",
+      "label": "Ameaças (Livro Básico)",
+      "type": "Actor",
+      "path": "./packs/ameacas-livro-basico",
+      "system": "tormenta20",
+      "locked": true,
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "GAMEMASTER": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -51,10 +63,11 @@
       "color": "#5c3d2b",
       "packs": [
         "bestiario-de-arton",
-        "habilidades-do-bestiario"
+        "habilidades-do-bestiario",
+        "ameacas-livro-basico"
       ]
     }
   ],
   "manifest": "https://github.com/mobguilherme/Bestiario-de-Arton/releases/latest/download/module.json",
-  "download": "https://github.com/mobguilherme/Bestiario-de-Arton/releases/download/v0.8.5/bestiario-de-arton.zip"
+  "download": "https://github.com/mobguilherme/Bestiario-de-Arton/releases/download/v0.8.6/bestiario-de-arton.zip"
 }
